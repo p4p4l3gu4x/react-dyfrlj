@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "http://p4p4l3gu4x.github.io/react-login",
   "private": true,
   "dependencies": {
     "@types/jest": "24.0.23",
